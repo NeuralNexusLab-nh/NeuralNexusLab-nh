@@ -17,7 +17,7 @@
 |---------|-------------|------|
 | **Zelfa** | AI‑driven conversation web app | [🌐 Open](https://zelfaz.nethacker.cloud/) |
 | **SQLegend** | Free, always‑online SQL Server platform | [🌐 Open](https://sqlegend.nethacker.cloud/) |
-| **Pixel War** | Multiplayer canvas arena – draw & battle | [🌐 Open](https://pixelwar.nethacker.cloud/) |
+| **Pixel War** | Multiplayer FPS arena –  battle | [🌐 Open](https://pixelwar.nethacker.cloud/) |
 
 ---  
 
