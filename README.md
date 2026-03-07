@@ -16,8 +16,8 @@
 | Project | Description | Demo |
 |---------|-------------|------|
 | **Zelfa** | AI‑driven conversation web app | [🌐 Open](https://zelfaz.nethacker.cloud/) |
-| **SQLegend** | Free, always‑online SQL Server platform | [🌐 Open](https://sqlegend.nethacker.cloud/) |
-| **Pixel War** | Multiplayer FPS arena –  battle | [🌐 Open](https://pixelwar.nethacker.cloud/) |
+| **SQLegend** | Free, always‑online SQL Server platform | [🌐 Open](https://sqlegend.zone.id) |
+| **IntAPI** | Free LLM API | [🌐 Open](https://intapi.zone.id/) |
 
 ---  
 
@@ -58,8 +58,8 @@ NeuralNexusLab is a cyber‑research organization specializing in:
 
 ### Direct e‑mail  
 
-* <mailto:mail@nethacker.cloud> `mail@nethacker.cloud`  
-* <mailto:neuralnexuslab@hotmail.com> `neuralnexuslab@hotmail.com`  
+* <mailto:mail@nethacker.cloud> `mail@nxlab.zone.id`  
+* <mailto:neuralnexuslab@wearehackerone.com> `neuralnexuslab@wearehackerone.com`  
 
 ---  
 2026, NeuralNexusLab.
