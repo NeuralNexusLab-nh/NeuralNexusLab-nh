@@ -16,8 +16,7 @@
 | Project | Description | Demo |
 |---------|-------------|------|
 | **Zelfa** | AI‑driven conversation web app | [🌐 Open](https://zelfaz.nethacker.cloud/) |
-| **SQLegend** | Free, always‑online SQL Server platform | [🌐 Open](https://sqlegend.zone.id) |
-| **IntAPI** | Free LLM API | [🌐 Open](https://intapi.zone.id/) |
+| **IntAPI** | Free LLM API | [🌐 Open](https://intapi.onrender.com/) |
 
 ---  
 
@@ -58,7 +57,7 @@ NeuralNexusLab is a cyber‑research organization specializing in:
 
 ### Direct e‑mail  
 
-* <mailto:mail@nethacker.cloud> `mail@nxlab.zone.id`  
+* <mailto:mail@nxlab.zone.id> `mail@nxlab.zone.id`  
 * <mailto:neuralnexuslab@wearehackerone.com> `neuralnexuslab@wearehackerone.com`  
 
 ---  
